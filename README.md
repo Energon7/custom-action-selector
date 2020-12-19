@@ -1,7 +1,7 @@
 # Nova Custom Action Selector
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/Energon7/custom-action-selector?style=flat-square)](https://packagist.org/packages/energon7/custom-action-selector)
-![Licence](https://img.shields.io/github/license/energon7/custom-action-selector?style=flat-square)
+![Licence](https://img.shields.io/github/license/Energon7/custom-action-selector?style=flat-square)
 [![Total Downloads](https://poser.pugx.org/energon7/custom-action-selector/downloads?format=flat-square)](https://packagist.org/packages/energon7/custom-action-selector)
 
 This package allows you to change the action select box to a button view.
