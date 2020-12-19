@@ -1,6 +1,6 @@
 {
     "name": "energon7/custom-action-selector",
-    "description": "A Laravel Nova tool.",
+    "description": "This package allows you to change the action select box to a button view.",
     "keywords": [
         "laravel",
         "nova"
