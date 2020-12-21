@@ -27,6 +27,11 @@ public function tools()
     ];
 }
 ```
+Then create any action:
+```
+php artisan nova:action SomeAction
+
+```
 
 You can add icon to a action button.
 
